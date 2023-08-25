@@ -3,6 +3,7 @@
 - House Market Place is a React JS web application designed to connect buyers, renters, and sellers in the real estate market.
 - The application offers an interactive platform for users to explore property listings, post their own properties, manage their listings, and interact with potential buyers or tenants.
 - The design of the app is mobile-oriented.
+- Live Demonstration : [House Market Place](https://the-house-market-place.netlify.app/)
 
 ---
 
